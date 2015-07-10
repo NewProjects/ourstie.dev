@@ -130,7 +130,7 @@
 				<div class="col-md-12">
 					<h1 class="text-center title">Services</h1>
 					<div class="separator"></div>
-					<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+					<p class="text-center">We offer digital and physical marketing materials.</p>
 					<div class="row grid-space-20">
 						<div class="col-sm-12 col-md-4 col-md-push-4">
 							<img src="images/section-image-5.png" alt="" class="object-non-visible" data-animation-effect="fadeInUp" data-effect-delay="0">
@@ -138,64 +138,69 @@
 						<div class="col-sm-6 col-md-4 col-md-pull-4">
 							<div class="box-style-3 right object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="0">
 								<div class="icon-container default-bg">
-									<i class="fa fa-bold"></i>
+									<i class="fa fa-laptop"></i>
 								</div>
 								<div class="body">
-									<h2>Bootstrap Based</h2>
-									<p>Voluptatem ad provident non veritatis.</p>
-									<a href="page-services.html" class="link"><span>Read More</span></a>
+									<h2>Web Design and Development</h2>
+									<p>Custom and templated designing available.</p>
+									{{-- <a href="page-services.html" class="link"><span>Read More</span></a> --}}
 								</div>
 							</div>
 							<div class="box-style-3 right object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200">
 								<div class="icon-container default-bg">
-									<i class="fa fa-check"></i>
+									<i class="fa fa-bullseye"></i>
 								</div>
 								<div class="body">
-									<h2>Unlimited Options</h2>
-									<p>Iure sequi unde hic. Sapiente quaerat.</p>
-									<a href="page-services.html" class="link"><span>Read More</span></a>
+									<h2>Branding/Identity Design</h2>
+									<p>Provide consistent branding for maximum recognition.</p>
+									{{-- <a href="page-services.html" class="link"><span>Read More</span></a> --}}
 								</div>
 							</div>
 							<div class="box-style-3 right object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="400">
 								<div class="icon-container default-bg">
-									<i class="fa fa-bicycle"></i>
+									<i class="fa fa-copy"></i>
 								</div>
 								<div class="body">
-									<h2>Easy to Use</h2>
-									<p>Inventore dolores aut laboriosam cum.</p>
-									<a href="page-services.html" class="link"><span>Read More</span></a>
+									<h2>Print Collateral</h2>
+									<p>Supporting print materials.</p>
+									{{-- <a href="page-services.html" class="link"><span>Read More</span></a> --}}
 								</div>
 							</div>
 						</div>
 						<div class="col-sm-6 col-md-4">
 							<div class="box-style-3 object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="0">
 								<div class="icon-container default-bg">
-									<i class="fa fa-leaf"></i>
+									<i class="fa fa-eye"></i>
 								</div>
 								<div class="body">
-									<h2>Clean Design and Code</h2>
-									<p>Voluptatem ad provident non veritatis.</p>
-									<a href="page-services.html" class="link"><span>Read More</span></a>
+									<h2>Graphics/Signage</h2>
+									<p>Reinforce your brand identity in creative ways.</p>
+									{{-- <a href="page-services.html" class="link"><span>Read More</span></a> --}}
 								</div>
 							</div>
 							<div class="box-style-3 object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200">
 								<div class="icon-container default-bg">
-									<i class="fa fa-laptop"></i>
+									<i class="fa fa-flag"></i>
 								</div>
 								<div class="body">
-									<h2>Very Flexible</h2>
-									<p>Iure sequi unde hic. Sapiente quaerat.</p>
-									<a href="page-services.html" class="link"><span>Read More</span></a>
+									<h2>Banners</h2>
+									<p>Instant recognition at shows and events.</p>
+									{{-- <a href="page-services.html" class="link"><span>Read More</span></a> --}}
 								</div>
 							</div>
 							<div class="box-style-3 object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="400">
 								<div class="icon-container default-bg">
-									<i class="fa fa-sitemap"></i>
+									<i class="fa fa-server"></i>
 								</div>
 								<div class="body">
-									<h2>Latest Technologies</h2>
-									<p>Inventore dolores aut laboriosam cum.</p>
-									<a href="page-services.html" class="link"><span>Read More</span></a>
+									<h2>Web Hosting</h2>
+									<p>Let us ensure your site is up and running.</p>
+									{{-- <a href="page-services.html" class="link"><span>Service Price Sheet</span></a> --}}
+								</div>
+							</div>
+							<div>
+								<div class="body">
+									<a href="page-services.html" class="link"><span>Service Price Sheet</span></a>
 								</div>
 							</div>
 						</div>
