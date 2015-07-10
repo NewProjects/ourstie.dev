@@ -5,8 +5,8 @@
 <html lang="en">
 <!--<![endif]-->
 <head>
-<title><meta charset="utf-8">
-@yield('title')</title>
+<meta charset="utf-8">
+<title>@yield('title')</title>
 <meta name="description" content="iDea a Bootstrap-based, Responsive HTML5 Template">
 <meta name="author" content="htmlcoder.me">
 
