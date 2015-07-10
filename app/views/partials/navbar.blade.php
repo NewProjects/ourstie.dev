@@ -13,7 +13,7 @@ fixed: fixed navigation mode (sticky menu) e.g. <header class="header fixed clea
 
 		<!-- logo -->
 		<div class="logo">
-			<a href="index.html"><img id="logo" src="images/logo_red.png" alt="iDea"></a>
+			<a href="{{{action('HomeController@showHome')}}}"><img id="logo" src="images/logo_red.png" alt="iDea"></a>
 		</div>
 
 		<!-- name-and-slogan -->

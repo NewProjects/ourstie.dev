@@ -12,3 +12,5 @@
 */
 
 Route::get('/', 'HomeController@showHome');
+
+Route::get('price', 'HomeController@showPrice');
