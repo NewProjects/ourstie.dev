@@ -19,5 +19,9 @@ class HomeController extends BaseController {
 	{
 		return View::make('home');
 	}
+	public function showPrice()
+	{
+		return View::make('price');
+	}
 
 }

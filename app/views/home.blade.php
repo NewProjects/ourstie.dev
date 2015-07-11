@@ -200,7 +200,7 @@
 							</div>
 							<div>
 								<div class="body">
-									<a href="page-services.html" class="link"><span>Service Price Sheet</span></a>
+									<a href="{{{ action ('HomeController@showPrice')}}}" class="link"><span>Service Price Sheet</span></a>
 								</div>
 							</div>
 						</div>

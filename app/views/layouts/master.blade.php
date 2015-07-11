@@ -66,6 +66,7 @@
 <div class="page-wrapper">
 	@include('partials.navbar')
 	@yield('home')
+	@yield('price')
 
 
 
