@@ -7,12 +7,6 @@
 		<h1>The Process We Follow</h1>
 		<!-- pills start -->
 		<div class="process">
-			<!-- Nav tabs -->
-			<ul class="nav nav-pills white space-top" role="tablist">
-				<li class="active"><a href="#pill-1" role="tab" data-toggle="tab" title="Step 1"><i class="fa fa-dot-circle-o pr-5"></i> Step 1</a></li>
-				<li><a href="#pill-2" role="tab" data-toggle="tab" title="Step 2"><i class="fa fa-dot-circle-o pr-5"></i> Step 2</a></li>
-				<li><a href="#pill-3" role="tab" data-toggle="tab" title="Step 3"><i class="fa fa-dot-circle-o pr-5"></i> Step 3</a></li>
-			</ul>
 			<!-- Tab panes -->
 			<div class="tab-content clear-style">
 				<div class="tab-pane active" id="pill-1">
@@ -47,7 +41,7 @@
 	</div>
 </div>
 <!-- section end -->
-
+<h2>Logo Pricing</h2>
 <!-- section start -->
 <!-- ================ -->
 <div class="section clearfix">
@@ -74,7 +68,7 @@
 						<li>Security</li>
 						<li>Bandwidth</li>
 						<li>Databases</li>
-						<li><a class="btn btn-gray">Subscribe</a></li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray">Subscribe</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
@@ -95,7 +89,7 @@
 						<li>Security</li>
 						<li>500 Visitors per month</li>
 						<li>1 Database</li>
-						<li><a class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
@@ -116,12 +110,93 @@
 						</li>
 						<li>Unlimited Bandwidth</li>
 						<li>Unlimited Databases</li>
-						<li><a class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
 			</div>
 		</div>
 	</div>
+</div>
+		<!-- pricing tables end -->
+<div>
+<h2>Website Pricing</h2>
+</div>
+<!-- section start -->
+<!-- ================ -->
+<div class="section clearfix">
+	<div class="container">
+
+		<!-- pricing tables start -->
+		<div class="pricing-tables gray object-non-visible" data-animation-effect="fadeInUpSmall">
+			<div class="row grid-space-0">
+				<!-- pricing table start -->
+				<div class="col-sm-4 plan">
+					<div class="header">
+						<h3>Basic</h3>
+						<div class="price"><span>$1000</span></div>
+					</div>
+					<ul>
+						<li>1 User</li>
+						<li>
+							<a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="15GB Storage" data-trigger="hover">1GB Storage</a>
+						</li>
+						<li>
+							<a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="15 Email Acounts">1 Email Acounts</a>
+						</li>
+						<li>Subdomains</li>
+						<li>Security</li>
+						<li>Bandwidth</li>
+						<li>Databases</li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray">Subscribe</a></li>
+					</ul>
+				</div>
+				<!-- pricing table end -->
+
+				<!-- pricing table start -->
+				<div class="col-sm-4 plan best-value">
+					<div class="header">
+						<h3>Premium</h3>
+						<div class="price"><span>$19.99</span>/m.</div>
+					</div>
+					<ul>
+						<li>80 Users</li>
+						<li>Unlimited Disk Space</li>
+						<li>
+							<a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="Unlimited Subdomains">Unlimited Email Acounts</a>
+						</li>        
+						<li>Subdomains</li>
+						<li>Security</li>
+						<li>500 Visitors per month</li>
+						<li>1 Database</li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+					</ul>
+				</div>
+				<!-- pricing table end -->
+
+				<!-- pricing table start -->
+				<div class="col-sm-4 plan">
+					<div class="header">
+						<h3>Pro</h3>
+						<div class="price"><span>$24.99</span>/m.</div>
+					</div>
+					<ul>
+						<li>Unlimited Users</li>
+						<li>Unlimited Disk Space</li>
+						<li>Unlimited Email Acounts</li>
+						<li>Unlimited Subdomains</li>
+						<li>
+							<a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="Enchaned Security">Enchaned Security</a>
+						</li>
+						<li>Unlimited Bandwidth</li>
+						<li>Unlimited Databases</li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+					</ul>
+				</div>
+				<!-- pricing table end -->
+			</div>
+		</div>
+	</div>
+</div>
 		<!-- pricing tables end -->
 @stop

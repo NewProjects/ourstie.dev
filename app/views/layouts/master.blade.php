@@ -67,10 +67,7 @@
 	@include('partials.navbar')
 	@yield('home')
 	@yield('price')
-
-
-
-
+	@yield('order')
 	@include('partials.footer')
 <!-- JavaScript files placed at the end of the document so the pages load faster
 ================================================== -->

@@ -23,5 +23,9 @@ class HomeController extends BaseController {
 	{
 		return View::make('price');
 	}
+	public function showWebsite()
+	{
+		return View::make('website-order');
+	}
 
 }
