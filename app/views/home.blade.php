@@ -2,6 +2,7 @@
 @section('title')Home
 @stop
 @section('home')
+
 	<!-- banner start -->
 	<!-- ================ -->
 	<div class="banner">
@@ -9,7 +10,7 @@
 		<!-- slideshow start -->
 		<!-- ================ -->
 		<div class="slideshow white-bg">
-			
+
 			<!-- slider revolution start -->
 			<!-- ================ -->
 			<div class="slider-banner-container">
@@ -17,7 +18,7 @@
 					<ul>
 						<!-- slide 1 start -->
 						<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" data-title="Slide 1">
-						
+
 						<!-- main image -->
 						<img src="images/slider-3-slide-1.jpg"  alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
@@ -34,19 +35,19 @@
 						<div class="tp-caption very_large_text black sfl tp-resizeme"
 							data-x="center"
 							data-y="70" 
-							data-speed="600"
+							data-speed="400"
 							data-start="0"
-							data-end="10000"
-							data-endspeed="600">iDea - Unlimited Options
+							
+							data-endspeed="600">Boost Your Online Presence
 						</div>
 
 						<!-- LAYER NR. 2 -->
 						<div class="tp-caption sfr small_thin_dark text-center tp-resizeme"
 							data-x="center"
 							data-y="170" 
-							data-speed="600"
+							data-speed="400"
 							data-start="0"
-							data-end="10000"
+							
 							data-endspeed="600">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Quia dolorum consectetur doloremque a aliquam ullam labore, ducimus adipisci iste animi <br> natus asperiores sequi assumenda minima blanditiis. Culpa quis consectetur ratione. 
 						</div>
 
@@ -54,63 +55,14 @@
 						<div class="tp-caption tp-resizeme sfl"
 							data-x="center"
 							data-y="350" 
-							data-speed="600"
+							data-speed="400"
 							data-start="0"
-							data-end="10000"
+							
 							data-endspeed="600"><a href="portfolio-item.html" class="btn btn-dark btn-lg">Read More <i class="fa fa-angle-double-right pl-10"></i></a>
 						</div>
 
 						</li>
 						<!-- slide 1 end -->
-
-						<!-- slide 2 start -->
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" data-title="Slide 2">
-						
-						<!-- main image -->
-						<img src="images/slider-3-slide-2.jpg"  alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-						
-						<!-- Translucent background -->
-						<div class="tp-caption light-translucent-bg"
-							data-x="center"
-							data-y="bottom"
-							data-speed="800"
-							data-start="0"
-							style="background-color:rgba(255,255,255,0.3);">
-						</div>
-
-						<!-- LAYER NR. 1 -->
-						<div class="tp-caption very_large_text black sfl tp-resizeme"
-							data-x="center"
-							data-y="70" 
-							data-speed="600"
-							data-start="0"
-							data-end="10000"
-							data-endspeed="600">iDea - Powerful Bootstrap Theme
-						</div>
-
-						<!-- LAYER NR. 2 -->
-						<div class="tp-caption sfr small_thin_dark text-center tp-resizeme"
-							data-x="center"
-							data-y="170" 
-							data-speed="600"
-							data-start="0"
-							data-end="10000"
-							data-endspeed="600">Quia dolorum consectetur doloremque a aliquam ullam labore, ducimus adipisci iste animi <br> natus asperiores sequi assumenda minima blanditiis. Culpa quis consectetur ratione.
-						</div>
-
-						<!-- LAYER NR. 3 -->
-						<div class="tp-caption sfl tp-resizeme"
-							data-x="center"
-							data-y="300" 
-							data-speed="600"
-							data-start="0"
-							data-end="10000"
-							data-endspeed="600"><a href="portfolio-item.html" class="btn btn-dark btn-lg">Read More <i class="fa fa-angle-double-right pl-10"></i></a>
-						</div>
-
-						</li>
-						<!-- slide 2 end -->
-
 					</ul>
 				</div>
 			</div>
@@ -212,32 +164,7 @@
 	</div>
 	<!-- page-top end -->
 
-	<!-- main-container start -->
-	<!-- ================ -->
-	<section class="main-container default-bg">
-
-		<!-- main start -->
-		<!-- ================ -->
-		<div class="main">
-			<div class="container">
-				<div class="call-to-action">
-					<div class="row">
-						<div class="col-md-8">
-							<h1 class="title text-center">We offer more possibilities to meet your every need.</h1>
-						</div>
-						<div class="col-md-4">
-							<div class="text-center">
-								<a href="#" class="btn btn-white btn-lg">Purchase</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- main end -->
-
-	</section>
-	<!-- main-container end -->
+	<hr>
 
 	<!-- section start -->
 	<!-- ================ -->
@@ -245,7 +172,7 @@
 		<div class="container">
 			<h1 class="text-center">Who We Are</h1>
 			<div class="separator"></div>
-			<p class="lead text-center">Lorem ipsum dolor sit amet. Maiores, odio ut deleniti doloremque ad at praesentium<br> laudantium molestias similique. Quisquam incidunt ut laboriosam.</p>
+			<p class="lead text-center">We are a team of dedicated web development professionals dedicated to creating value for our clients. <br> Our aim is to make your online presence accurately reflect your organization.</p>
 			<br>
 			<div class="row">
 				<div class="col-md-6">
@@ -260,6 +187,8 @@
 		</div>
 	</div>
 	<!-- section end -->
+
+
 
 	<!-- section start -->
 	<!-- ================ -->
@@ -445,87 +374,4 @@
 	</div>
 	<!-- section end -->
 
-	<!-- section start -->
-	<!-- ================ -->
-	<div class="parallax parallax-bg-3 dark-translucent-bg object-non-visible" data-animation-effect="fadeIn" data-effect-delay="300">
-
-		<div class="container">
-			<div class="stats row grid-space-10">
-				<div class="col-md-3 col-sm-6">
-					<div class="box-style-1">
-						<h2 class="title">Projects</h2>
-						<i class="fa fa-briefcase"></i>
-						<span class="stat-num" data-to="1525" data-speed="3000">0</span>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="box-style-1">
-						<h2 class="title">Clients</h2>
-						<i class="fa fa-users"></i>
-						<span class="stat-num" data-to="1125" data-speed="3000">0</span>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="box-style-1">
-						<h2 class="title">Downloads</h2>
-						<i class="fa fa-cloud-download"></i>
-						<span class="stat-num" data-to="1836" data-speed="3000">0</span>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="box-style-1">
-						<h2 class="title">Likes</h2>
-						<i class="fa fa-thumbs-o-up"></i>
-						<span class="stat-num" data-to="2687" data-speed="3000">0</span>
-					</div>
-				</div>
-			</div>
-		</div>
-
-	</div>
-	<!-- section end -->
-
-	<!-- section start -->
-	<!-- ================ -->
-	<div class="section gray-bg text-muted footer-top clearfix">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6">
-					<div class="owl-carousel clients">
-						<div class="client">
-							<a href="#"><img src="images/client-1.png" alt=""></a>
-						</div>
-						<div class="client">
-							<a href="#"><img src="images/client-2.png" alt=""></a>
-						</div>
-						<div class="client">
-							<a href="#"><img src="images/client-3.png" alt=""></a>
-						</div>
-						<div class="client">
-							<a href="#"><img src="images/client-4.png" alt=""></a>
-						</div>
-						<div class="client">
-							<a href="#"><img src="images/client-5.png" alt=""></a>
-						</div>
-						<div class="client">
-							<a href="#"><img src="images/client-6.png" alt=""></a>
-						</div>
-						<div class="client">
-							<a href="#"><img src="images/client-7.png" alt=""></a>
-						</div>
-						<div class="client">
-							<a href="#"><img src="images/client-8.png" alt=""></a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<blockquote class="inline">
-						<p class="margin-clear">Design is not just what it looks like and feels like. Design is how it works.</p>	
-						<footer><cite title="Source Title">Steve Jobs </cite></footer>
-					</blockquote>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- section end -->
 @stop
