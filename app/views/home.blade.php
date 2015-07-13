@@ -73,11 +73,11 @@
 
 	<!-- page-top start-->
 	<!-- ================ -->
+	<a name="services"></a>
 	<div class="page-top object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="100">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<a name="services"></a>
 					<h1 class="text-center title">Services</h1>
 					<div class="separator"></div>
 					<p class="text-center">We offer digital and physical marketing materials.</p>
@@ -166,9 +166,9 @@
 
 	<!-- section start -->
 	<!-- ================ -->
+	<a name="aboutus"></a>
 	<div class="section clearfix object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200">
 		<div class="container">
-			<a name="aboutus"></a>
 			<h1 class="text-center">Who We Are</h1>
 			<div class="separator"></div>
 			<p class="lead text-center">We are a team of dedicated web development professionals dedicated to creating value for our clients. <br> Our aim is to make your online presence accurately reflect your organization.</p>
