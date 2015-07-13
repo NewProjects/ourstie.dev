@@ -61,7 +61,7 @@ fixed: fixed navigation mode (sticky menu) e.g. <header class="header fixed clea
 					</li>													
 						<!-- mega-menu start -->
 						<li>
-							<a href="#">Services</a>
+							<a href="#services">Services</a>
 						</li>
 						<!-- mega-menu end -->
 						<li>
