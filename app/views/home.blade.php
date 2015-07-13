@@ -26,7 +26,7 @@
 						<div class="tp-caption light-translucent-bg"
 							data-x="center"
 							data-y="bottom"
-							data-speed="800"
+							data-speed="400"
 							data-start="0"
 							style="background-color:rgba(255,255,255,0.3);">
 						</div>
@@ -37,8 +37,11 @@
 							data-y="70"
 							data-speed="400"
 							data-start="0"
-							data-endspeed="600">Boost Your Online Presence
+							data-endspeed="200">Boost Your Online Presence
 						</div>
+
+						<br>
+						<br>
 
 						<!-- LAYER NR. 2 -->
 						<div class="tp-caption sfr small_thin_dark text-center tp-resizeme"
@@ -46,16 +49,7 @@
 							data-y="170"
 							data-speed="400"
 							data-start="0"
-							data-endspeed="600">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Quia dolorum consectetur doloremque a aliquam ullam labore, ducimus adipisci iste animi <br> natus asperiores sequi assumenda minima blanditiis. Culpa quis consectetur ratione.
-						</div>
-
-						<!-- LAYER NR. 3 -->
-						<div class="tp-caption tp-resizeme sfl"
-							data-x="center"
-							data-y="350"
-							data-speed="400"
-							data-start="0"
-							data-endspeed="600"><a href="portfolio-item.html" class="btn btn-dark btn-lg">Read More <i class="fa fa-angle-double-right pl-10"></i></a>
+							data-endspeed="200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Quia dolorum consectetur doloremque a aliquam ullam labore, ducimus adipisci iste animi <br> natus asperiores sequi assumenda minima blanditiis. Culpa quis consectetur ratione.
 						</div>
 
 						</li>
@@ -73,14 +67,16 @@
 
 	<!-- page-top start-->
 	<!-- ================ -->
+	<a name="services"></a>
 	<div class="page-top object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="100">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<a name="services"></a>
+					<br>
+					<br>
 					<h1 class="text-center title">Services</h1>
 					<div class="separator"></div>
-					<p class="text-center">We offer digital and physical marketing materials.</p>
+					<p class="text-center">We offer digital and physical marketing implementations.</p>
 					<div class="row grid-space-20">
 						<div class="col-sm-12 col-md-4 col-md-push-4">
 							<img src="images/section-image-5.png" alt="" class="object-non-visible" data-animation-effect="fadeInUp" data-effect-delay="0">
@@ -166,12 +162,14 @@
 
 	<!-- section start -->
 	<!-- ================ -->
+	<a name="aboutus"></a>
 	<div class="section clearfix object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200">
 		<div class="container">
-			<a name="aboutus"></a>
+			<br>
+			<br>
 			<h1 class="text-center">Who We Are</h1>
 			<div class="separator"></div>
-			<p class="lead text-center">We are a team of dedicated web development professionals dedicated to creating value for our clients. <br> Our aim is to make your online presence accurately reflect your organization.</p>
+			<p class="lead text-center">We are a team of professional web developers dedicated to creating value for our clients. <br> Let us craft your online presence.</p>
 			<br>
 			<div class="row">
 				<div class="col-md-6">
@@ -242,24 +240,8 @@
 								</ul>
 							</div>
 						</div>
-						<h3>Anne Smith</h3>
-						Project Manager
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="box-style-1 white-bg team-member">
-						<div class="overlay-container">
-							<img src="images/team-member-4.jpg" alt="">
-							<div class="overlay">
-								<ul class="social-links clearfix">
-									<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
-									<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
-									<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
-								</ul>
-							</div>
-						</div>
-						<h3>Margaret Manson</h3>
-						Developer
+						<h3>Mike</h3>
+						Marketing Guru
 					</div>
 				</div>
 			</div>
@@ -273,6 +255,8 @@
 
 		<div class="container">
 			<div class="row">
+				<br>
+
 				<div class="col-md-12">
 					<a name="ourwork"></a>
 					<h2>Latest Projects</h2>
