@@ -54,7 +54,7 @@ fixed: fixed navigation mode (sticky menu) e.g. <header class="header fixed clea
 		<div class="collapse navbar-collapse" id="navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
 					<li>
-						<a href="{{{action('HomeController@showHome')}}}" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+						<a href="{{{action('HomeController@showHome')}}}">Home</a>
 					</li>
 					<li>
 						<a href="#">About Us</a>
