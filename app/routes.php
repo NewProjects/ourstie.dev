@@ -16,3 +16,4 @@ Route::get('/', 'HomeController@showHome');
 Route::get('price', 'HomeController@showPrice');
 
 Route::get('website-order', 'HomeController@showWebsite');
+Route::get('logo-order', 'HomeController@showLogo');

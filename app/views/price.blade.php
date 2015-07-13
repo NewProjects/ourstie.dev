@@ -68,7 +68,7 @@
 						<li>Security</li>
 						<li>Bandwidth</li>
 						<li>Databases</li>
-						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray">Subscribe</a></li>
+						<li><a href="{{{action ('HomeController@showLogo')}}}" class="btn btn-gray">Order Now</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
@@ -89,7 +89,7 @@
 						<li>Security</li>
 						<li>500 Visitors per month</li>
 						<li>1 Database</li>
-						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+						<li><a href="{{{action ('HomeController@showLogo')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
@@ -110,7 +110,7 @@
 						</li>
 						<li>Unlimited Bandwidth</li>
 						<li>Unlimited Databases</li>
-						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+						<li><a href="{{{action ('HomeController@showLogo')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->

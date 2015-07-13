@@ -27,5 +27,8 @@ class HomeController extends BaseController {
 	{
 		return View::make('website-order');
 	}
-
+	public function showLogo()
+	{
+		return View::make('logo-order');
+	}
 }
