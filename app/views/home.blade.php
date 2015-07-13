@@ -34,30 +34,27 @@
 						<!-- LAYER NR. 1 -->
 						<div class="tp-caption very_large_text black sfl tp-resizeme"
 							data-x="center"
-							data-y="70" 
+							data-y="70"
 							data-speed="400"
 							data-start="0"
-							
 							data-endspeed="600">Boost Your Online Presence
 						</div>
 
 						<!-- LAYER NR. 2 -->
 						<div class="tp-caption sfr small_thin_dark text-center tp-resizeme"
 							data-x="center"
-							data-y="170" 
+							data-y="170"
 							data-speed="400"
 							data-start="0"
-							
-							data-endspeed="600">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Quia dolorum consectetur doloremque a aliquam ullam labore, ducimus adipisci iste animi <br> natus asperiores sequi assumenda minima blanditiis. Culpa quis consectetur ratione. 
+							data-endspeed="600">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Quia dolorum consectetur doloremque a aliquam ullam labore, ducimus adipisci iste animi <br> natus asperiores sequi assumenda minima blanditiis. Culpa quis consectetur ratione.
 						</div>
 
 						<!-- LAYER NR. 3 -->
 						<div class="tp-caption tp-resizeme sfl"
 							data-x="center"
-							data-y="350" 
+							data-y="350"
 							data-speed="400"
 							data-start="0"
-							
 							data-endspeed="600"><a href="portfolio-item.html" class="btn btn-dark btn-lg">Read More <i class="fa fa-angle-double-right pl-10"></i></a>
 						</div>
 
@@ -80,6 +77,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
+					<a name="services"></a>
 					<h1 class="text-center title">Services</h1>
 					<div class="separator"></div>
 					<p class="text-center">We offer digital and physical marketing materials.</p>
@@ -170,6 +168,7 @@
 	<!-- ================ -->
 	<div class="section clearfix object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200">
 		<div class="container">
+			<a name="aboutus"></a>
 			<h1 class="text-center">Who We Are</h1>
 			<div class="separator"></div>
 			<p class="lead text-center">We are a team of dedicated web development professionals dedicated to creating value for our clients. <br> Our aim is to make your online presence accurately reflect your organization.</p>
@@ -211,8 +210,8 @@
 								</ul>
 							</div>
 						</div>
-						<h3>Jane Doe</h3>
-						CEO
+						<h3>Noe</h3>
+						CTO
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -227,8 +226,8 @@
 								</ul>
 							</div>
 						</div>
-						<h3>John Doe</h3>
-						CTO
+						<h3>Benny</h3>
+						COO
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
@@ -275,7 +274,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-
+					<a name="ourwork"></a>
 					<h2>Latest Projects</h2>
 					<div class="separator-2"></div>
 
