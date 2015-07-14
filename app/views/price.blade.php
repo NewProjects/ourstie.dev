@@ -54,8 +54,8 @@
 				<!-- pricing table start -->
 				<div class="col-sm-4 plan">
 					<div class="header">
-						<h3>Basic</h3>
-						<div class="price"><span>Free</span></div>
+						<h3>Economy</h3>
+						<div class="price"><span>$199</span></div>
 					</div>
 					<ul>
 						<li>1 User</li>
@@ -69,7 +69,7 @@
 						<li>Security</li>
 						<li>Bandwidth</li>
 						<li>Databases</li>
-						<li><a href="{{{action ('HomeController@showLogo')}}}" class="btn btn-gray">Order Now</a></li>
+						<li><a href="{{{action ('HomeController@showLogo')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
@@ -77,8 +77,8 @@
 				<!-- pricing table start -->
 				<div class="col-sm-4 plan best-value">
 					<div class="header">
-						<h3>Premium</h3>
-						<div class="price"><span>$19.99</span>/m.</div>
+						<h3>Standard</h3>
+						<div class="price"><span>$299</span></div>
 					</div>
 					<ul>
 						<li>80 Users</li>
@@ -98,8 +98,8 @@
 				<!-- pricing table start -->
 				<div class="col-sm-4 plan">
 					<div class="header">
-						<h3>Pro</h3>
-						<div class="price"><span>$24.99</span>/m.</div>
+						<h3>Premium</h3>
+						<div class="price"><span>$599</span></div>
 					</div>
 					<ul>
 						<li>Unlimited Users</li>
@@ -134,7 +134,7 @@
 				<!-- pricing table start -->
 				<div class="col-sm-4 plan">
 					<div class="header">
-						<h3>Basic</h3>
+						<h3>Economy</h3>
 						<div class="price"><span>$1000</span></div>
 					</div>
 					<ul>
@@ -149,7 +149,7 @@
 						<li>Security</li>
 						<li>Bandwidth</li>
 						<li>Databases</li>
-						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray">Subscribe</a></li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
@@ -157,8 +157,8 @@
 				<!-- pricing table start -->
 				<div class="col-sm-4 plan best-value">
 					<div class="header">
-						<h3>Premium</h3>
-						<div class="price"><span>$19.99</span>/m.</div>
+						<h3>Standard</h3>
+						<div class="price"><span>$1250</span></div>
 					</div>
 					<ul>
 						<li>80 Users</li>
@@ -178,8 +178,8 @@
 				<!-- pricing table start -->
 				<div class="col-sm-4 plan">
 					<div class="header">
-						<h3>Pro</h3>
-						<div class="price"><span>$24.99</span>/m.</div>
+						<h3>Premium</h3>
+						<div class="price"><span>$1500</span></div>
 					</div>
 					<ul>
 						<li>Unlimited Users</li>

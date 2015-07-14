@@ -2,14 +2,14 @@
 @section('title')Website Order
 @stop
 @section('order')
-<div class ="form-group">
+<div class ="container">
 	<h2 class ="form-group">Website Order Form</h2>
 
 	<p>
 		<strong>Let's get started on creating your website order by providing some details</strong>
 	</p>
 </div>
-<div>
+<div class ="container">
 	{{ Form::open(array('' => '')) }}
 
 	                    <fieldset>
@@ -36,29 +36,41 @@
 	                                {{ Form::number('number', Input::old('phone'),array('placeholder'=>'Phone Number', 'class'=>'form-control')) }}
 	                            </div>
 	                        </div>
+	                        <div class="col-md-8">
+	                        		<p></p>
+	                        	</div>
 	                        <div class="form-group">
 	                        	<div class="col-md-8">
 		                        	<label> How did you hear our us?</label>
-		                        	<select>
-		                        		<option value= "Select here"...>Select here...</option>
-		                        		<option value= "Google search"...>Google search</option>
-		                        		<option value= "Facebook"...>Facebook</option>
-		                        		<option value= "Craiglist"...>Craiglist</option>
-		                        		<option value= "Other"...>Freind/Referral</option>
-		                        	</select>
+		                        	<div class="form-group">
+			                        	<select class="col-md-4">
+			                        		<option value= "Select here"...>Select here...</option>
+			                        		<option value= "Google search"...>Google search</option>
+			                        		<option value= "Facebook"...>Facebook</option>
+			                        		<option value= "Craiglist"...>Craiglist</option>
+			                        		<option value= "Other"...>Freind/Referral</option>
+			                        	</select>
+		                        	</div>
 	                        	</div>
 	                        </div>
 	                        <div class="col-md-8">
 	                        <h3>Project Specific</h3>
-	                       
+	                        <div class="col-md-8">
+	                        		<p></p>
+	                        	</div>
 	                        <label> Choose your preferred package:</label>
-	                        	<select>
+	                        <div class="form-group">
+	                        	<select class="col-md-4">
 	                        		<option value="Choose your package">Select...</option>
 	                        		<option value= "Standard"...>Standard</option>
 	                        		<option value= "Google search"...>Google search</option>
 	                        		<option value= "Premium"...>Premium</option>
 		                        </select>
+		                     </div>
 	                        </div>
+	                        <div class="col-md-8">
+	                        		<p></p>
+	                        	</div>
 	                        <div class="form-group">
 		                        <div class="col-md-8">
 			                        <label>Who is your target audience?</label>
