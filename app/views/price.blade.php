@@ -41,12 +41,13 @@
 	</div>
 </div>
 <!-- section end -->
-<h2>Logo Pricing</h2>
+{{-- <h2>Logo Pricing</h2> --}}
 <!-- section start -->
 <!-- ================ -->
 <div class="section clearfix">
 	<div class="container">
-
+		<h2>Logo Pricing</h2>
+		<hr>
 		<!-- pricing tables start -->
 		<div class="pricing-tables gray object-non-visible" data-animation-effect="fadeInUpSmall">
 			<div class="row grid-space-0">
@@ -119,14 +120,14 @@
 	</div>
 </div>
 		<!-- pricing tables end -->
-<div>
-<h2>Website Pricing</h2>
-</div>
+{{-- <div class="container"> --}}
+{{-- <h3>Website Pricing</h3></div> --}}
 <!-- section start -->
 <!-- ================ -->
 <div class="section clearfix">
 	<div class="container">
-
+		<h2>Website Pricing</h2>
+		<hr>
 		<!-- pricing tables start -->
 		<div class="pricing-tables gray object-non-visible" data-animation-effect="fadeInUpSmall">
 			<div class="row grid-space-0">
