@@ -177,8 +177,7 @@
 					<div class="space hidden-md hidden-lg"></div>
 				</div>
 				<div class="col-md-6">
-					<p class="space-top">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi veniam, veritatis sint consequuntur! Natus, culpa, explicabo! Non quo laboriosam nobis quia, amet excepturi optio dolor impedit. Perferendis libero unde, nulla deserunt sequi. Voluptatum, officia suscipit porro reprehenderit vitae quo rem reiciendis, a vero quae. Vero beatae voluptatum, illo quaerat provident doloribus consequuntur saepe, id quas animi vel ad eligendi adipisci.</p>
-					<a href="page-about-2.html" class="btn btn-lg btn-default">Read More</a>
+					<p class="space-top">We strive to deliver the exact desired online presence for each and every client.  Our experience allows for custom development of web applications for a robust user expereience.  In addition to your online presence, we offer a complete suite of marketing materials.</p>
 				</div>
 			</div>
 		</div>
@@ -246,11 +245,18 @@
 				</div>
 			</div>
 		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
 	</div>
 	<!-- section end -->
 
 	<!-- section start -->
 	<!-- ================ -->
+	<a name="ourwork"></a>
 	<div class="section clearfix object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="300">
 
 		<div class="container">
