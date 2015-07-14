@@ -44,13 +44,13 @@
 						<br>
 
 						<!-- LAYER NR. 2 -->
-						<div class="tp-caption sfr small_thin_dark text-center tp-resizeme"
+						{{-- <div class="tp-caption sfr small_thin_dark text-center tp-resizeme"
 							data-x="center"
 							data-y="170"
 							data-speed="400"
 							data-start="0"
 							data-endspeed="200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Quia dolorum consectetur doloremque a aliquam ullam labore, ducimus adipisci iste animi <br> natus asperiores sequi assumenda minima blanditiis. Culpa quis consectetur ratione.
-						</div>
+						</div> --}}
 
 						</li>
 						<!-- slide 1 end -->
@@ -97,7 +97,7 @@
 									<i class="fa fa-bullseye"></i>
 								</div>
 								<div class="body">
-									<h2>Branding/Identity Design</h2>
+									<h2>Branding / Identity Design</h2>
 									<p>Provide consistent branding for maximum recognition.</p>
 									{{-- <a href="page-services.html" class="link"><span>Read More</span></a> --}}
 								</div>
@@ -119,7 +119,7 @@
 									<i class="fa fa-eye"></i>
 								</div>
 								<div class="body">
-									<h2>Graphics/Signage</h2>
+									<h2>Graphics / Signage</h2>
 									<p>Reinforce your brand identity in creative ways.</p>
 									{{-- <a href="page-services.html" class="link"><span>Read More</span></a> --}}
 								</div>
@@ -265,71 +265,63 @@
 
 				<div class="col-md-12">
 					<a name="ourwork"></a>
-					<h2>Latest Projects</h2>
+					<h2>Some of Our Projects</h2>
 					<div class="separator-2"></div>
 
 					<!-- isotope filters start -->
-					<div class="filters">
+					{{-- <div class="filters">
 						<ul class="nav nav-pills">
 							<li class="active"><a href="#" data-filter="*">All</a></li>
 							<li><a href="#" data-filter=".web-design">Web design</a></li>
 							<li><a href="#" data-filter=".app-development">App development</a></li>
 							<li><a href="#" data-filter=".site-building">Site building</a></li>
 						</ul>
-					</div>
+					</div> --}}
 					<!-- isotope filters end -->
 
 					<!-- portfolio items start -->
 					<div class="isotope-container row grid-space-20">
+						
 						<div class="col-sm-6 col-md-4 isotope-item web-design">
 							<div class="image-box">
-								<div class="overlay-container">
+								{{-- <div class="overlay-container"> --}}
 									<img src="images/portfolio-1.jpg" alt="">
 									<a href="portfolio-item.html" class="overlay small">
 										<i class="fa fa-link"></i>
 										<span>Web Design</span>
 									</a>
-								</div>
-								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
+								{{-- </div> --}}
+								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">American Remodeling & Roofing</a>
 							</div>
 						</div>
-						<div class="col-sm-6 col-md-4 isotope-item app-development">
-							<div class="image-box">
-								<div class="overlay-container">
-									<img src="images/portfolio-2.jpg" alt="">
-									<a href="portfolio-item.html" class="overlay small">
-										<i class="fa fa-link"></i>
-										<span>App Development</span>
-									</a>
-								</div>
-								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
-							</div>
-						</div>
+						
 						<div class="col-sm-6 col-md-4 isotope-item web-design">
 							<div class="image-box">
-								<div class="overlay-container">
+								{{-- <div class="overlay-container"> --}}
 									<img src="images/portfolio-3.jpg" alt="">
 									<a href="portfolio-item.html" class="overlay small">
 										<i class="fa fa-link"></i>
 										<span>Web Design</span>
 									</a>
-								</div>
-								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
+								{{-- </div> --}}
+								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Concept Construction</a>
 							</div>
 						</div>
-						<div class="col-sm-6 col-md-4 isotope-item site-building">
+						
+						<div class="col-sm-6 col-md-4 isotope-item web-design">
 							<div class="image-box">
-								<div class="overlay-container">
-									<img src="images/portfolio-4.jpg" alt="">
+								{{-- <div class="overlay-container"> --}}
+									<img src="images/portfolio-6.jpg" alt="">
 									<a href="portfolio-item.html" class="overlay small">
 										<i class="fa fa-link"></i>
-										<span>Site Building</span>
+										<span>Web Design</span>
 									</a>
-								</div>
-								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
+								{{-- </div> --}}
+								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Sunsafe Film</a>
 							</div>
 						</div>
-						<div class="col-sm-6 col-md-4 isotope-item app-development">
+
+						{{-- <div class="col-sm-6 col-md-4 isotope-item app-development">
 							<div class="image-box">
 								<div class="overlay-container">
 									<img src="images/portfolio-5.jpg" alt="">
@@ -340,19 +332,33 @@
 								</div>
 								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
 							</div>
-						</div>
-						<div class="col-sm-6 col-md-4 isotope-item web-design">
+						</div> --}}
+
+						{{-- <div class="col-sm-6 col-md-4 isotope-item site-building">
 							<div class="image-box">
 								<div class="overlay-container">
-									<img src="images/portfolio-6.jpg" alt="">
+									<img src="images/portfolio-4.jpg" alt="">
 									<a href="portfolio-item.html" class="overlay small">
 										<i class="fa fa-link"></i>
-										<span>Web Design</span>
+										<span>Site Building</span>
 									</a>
 								</div>
 								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
 							</div>
-						</div>
+						</div> --}}
+
+						{{-- <div class="col-sm-6 col-md-4 isotope-item app-development">
+							<div class="image-box">
+								<div class="overlay-container">
+									<img src="images/portfolio-2.jpg" alt="">
+									<a href="portfolio-item.html" class="overlay small">
+										<i class="fa fa-link"></i>
+										<span>App Development</span>
+									</a>
+								</div>
+								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
+							</div>
+						</div> --}}
 					</div>
 					<!-- portfolio items end -->
 
