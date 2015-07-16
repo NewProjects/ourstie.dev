@@ -3,6 +3,18 @@
 @stop
 @section('home')
 
+<style type="text/css">
+	#arrlogo {
+		padding-top: 50px;
+		/*padding-bottom: 40px;*/
+	}
+
+	#conceptsconstruction {
+		padding-top: 12px;
+		/*padding-bottom: 40px;*/
+	}
+</style>
+
 	<!-- banner start -->
 	<!-- ================ -->
 	<div class="banner">
@@ -240,7 +252,7 @@
 							</div>
 						</div>
 						<h3>Mike</h3>
-						Marketing Guru
+						CMO
 					</div>
 				</div>
 			</div>
@@ -283,10 +295,10 @@
 					<div class="isotope-container row grid-space-20">
 						
 						<div class="col-sm-6 col-md-4 isotope-item web-design">
-							<div class="image-box">
+							<div class="image-box" align="center" id="arrlogo">
 								{{-- <div class="overlay-container"> --}}
-									<img src="images/portfolio-1.jpg" alt="">
-									<a href="portfolio-item.html" class="overlay small">
+									<img src="images/arrlogo.png" alt="">
+									<a href="http://www.goamericanrandr.com/" target="blank" class="overlay small">
 										<i class="fa fa-link"></i>
 										<span>Web Design</span>
 									</a>
@@ -296,23 +308,23 @@
 						</div>
 						
 						<div class="col-sm-6 col-md-4 isotope-item web-design">
-							<div class="image-box">
+							<div class="image-box" align="center" id="conceptsconstruction">
 								{{-- <div class="overlay-container"> --}}
-									<img src="images/portfolio-3.jpg" alt="">
-									<a href="portfolio-item.html" class="overlay small">
+									<img src="images/conceptsconstruction.png" alt="">
+									<a href="http://conceptsconstruction.com/" target="blank" class="overlay small">
 										<i class="fa fa-link"></i>
 										<span>Web Design</span>
 									</a>
 								{{-- </div> --}}
-								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Concept Construction</a>
+								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Concepts Construction</a>
 							</div>
 						</div>
 						
-						<div class="col-sm-6 col-md-4 isotope-item web-design">
-							<div class="image-box">
+						<div class="col-sm-6 col-md-4 isotope-item web-design" id="sunsafe">
+							<div class="image-box" align="center">
 								{{-- <div class="overlay-container"> --}}
-									<img src="images/portfolio-6.jpg" alt="">
-									<a href="portfolio-item.html" class="overlay small">
+									<img src="images/sunsafe.png" alt="">
+									<a href="http://www.sunsafefilm.com/" target="blank" class="overlay small">
 										<i class="fa fa-link"></i>
 										<span>Web Design</span>
 									</a>
