@@ -54,9 +54,7 @@
 
 						<br>
 						<br>
-<<<<<<< HEAD
-				
-=======
+
 
 						<!-- LAYER NR. 2 -->
 						{{-- <div class="tp-caption sfr small_thin_dark text-center tp-resizeme"
@@ -67,7 +65,6 @@
 							data-endspeed="200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Quia dolorum consectetur doloremque a aliquam ullam labore, ducimus adipisci iste animi <br> natus asperiores sequi assumenda minima blanditiis. Culpa quis consectetur ratione.
 						</div> --}}
 
->>>>>>> 54c0e31a7a0684f8ad41a06b090c9fef1a479171
 						</li>
 						<!-- slide 1 end -->
 					</ul>
