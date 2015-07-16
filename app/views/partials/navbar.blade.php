@@ -57,12 +57,12 @@ fixed: fixed navigation mode (sticky menu) e.g. <header class="header fixed clea
 						<a href="{{{action('HomeController@showHome')}}}">Home</a>
 					</li>
 					<li>
-						<a href="#aboutus">About Us</a>
-					</li>													
+						<a href="#services">Services</a>
+					</li>
 						<!-- mega-menu start -->
-						<li>
-							<a href="#services">Services</a>
-						</li>
+					<li>
+						<a href="#aboutus">About Us</a>
+					</li>
 						<!-- mega-menu end -->
 						<li>
 							<a href="#ourwork">Our Work</a>

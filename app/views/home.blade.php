@@ -3,6 +3,18 @@
 @stop
 @section('home')
 
+<style type="text/css">
+	#arrlogo {
+		padding-top: 50px;
+		/*padding-bottom: 40px;*/
+	}
+
+	#conceptsconstruction {
+		padding-top: 12px;
+		/*padding-bottom: 40px;*/
+	}
+</style>
+
 	<!-- banner start -->
 	<!-- ================ -->
 	<div class="banner">
@@ -42,7 +54,20 @@
 
 						<br>
 						<br>
+<<<<<<< HEAD
 				
+=======
+
+						<!-- LAYER NR. 2 -->
+						{{-- <div class="tp-caption sfr small_thin_dark text-center tp-resizeme"
+							data-x="center"
+							data-y="170"
+							data-speed="400"
+							data-start="0"
+							data-endspeed="200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Quia dolorum consectetur doloremque a aliquam ullam labore, ducimus adipisci iste animi <br> natus asperiores sequi assumenda minima blanditiis. Culpa quis consectetur ratione.
+						</div> --}}
+
+>>>>>>> 54c0e31a7a0684f8ad41a06b090c9fef1a479171
 						</li>
 						<!-- slide 1 end -->
 					</ul>
@@ -88,7 +113,7 @@
 									<i class="fa fa-bullseye"></i>
 								</div>
 								<div class="body">
-									<h2>Branding/Identity Design</h2>
+									<h2>Branding / Identity Design</h2>
 									<p>Provide consistent branding for maximum recognition.</p>
 									{{-- <a href="page-services.html" class="link"><span>Read More</span></a> --}}
 								</div>
@@ -110,7 +135,7 @@
 									<i class="fa fa-eye"></i>
 								</div>
 								<div class="body">
-									<h2>Graphics/Signage</h2>
+									<h2>Graphics / Signage</h2>
 									<p>Reinforce your brand identity in creative ways.</p>
 									{{-- <a href="page-services.html" class="link"><span>Read More</span></a> --}}
 								</div>
@@ -168,8 +193,7 @@
 					<div class="space hidden-md hidden-lg"></div>
 				</div>
 				<div class="col-md-6">
-					<p class="space-top">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi veniam, veritatis sint consequuntur! Natus, culpa, explicabo! Non quo laboriosam nobis quia, amet excepturi optio dolor impedit. Perferendis libero unde, nulla deserunt sequi. Voluptatum, officia suscipit porro reprehenderit vitae quo rem reiciendis, a vero quae. Vero beatae voluptatum, illo quaerat provident doloribus consequuntur saepe, id quas animi vel ad eligendi adipisci.</p>
-					<a href="page-about-2.html" class="btn btn-lg btn-default">Read More</a>
+					<p class="space-top">We strive to deliver the exact desired online presence for each and every client.  Our experience allows for custom development of web applications for a robust user expereience.  In addition to your online presence, we offer a complete suite of marketing materials.</p>
 				</div>
 			</div>
 		</div>
@@ -232,16 +256,23 @@
 							</div>
 						</div>
 						<h3>Mike</h3>
-						Marketing Guru
+						CMO
 					</div>
 				</div>
 			</div>
 		</div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
 	</div>
 	<!-- section end -->
 
 	<!-- section start -->
 	<!-- ================ -->
+	<a name="ourwork"></a>
 	<div class="section clearfix object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="300">
 
 		<div class="container">
@@ -250,71 +281,63 @@
 
 				<div class="col-md-12">
 					<a name="ourwork"></a>
-					<h2>Latest Projects</h2>
+					<h2>Some of Our Projects</h2>
 					<div class="separator-2"></div>
 
 					<!-- isotope filters start -->
-					<div class="filters">
+					{{-- <div class="filters">
 						<ul class="nav nav-pills">
 							<li class="active"><a href="#" data-filter="*">All</a></li>
 							<li><a href="#" data-filter=".web-design">Web design</a></li>
 							<li><a href="#" data-filter=".app-development">App development</a></li>
 							<li><a href="#" data-filter=".site-building">Site building</a></li>
 						</ul>
-					</div>
+					</div> --}}
 					<!-- isotope filters end -->
 
 					<!-- portfolio items start -->
 					<div class="isotope-container row grid-space-20">
+						
 						<div class="col-sm-6 col-md-4 isotope-item web-design">
-							<div class="image-box">
-								<div class="overlay-container">
-									<img src="images/portfolio-1.jpg" alt="">
-									<a href="portfolio-item.html" class="overlay small">
+							<div class="image-box" align="center" id="arrlogo">
+								{{-- <div class="overlay-container"> --}}
+									<img src="images/arrlogo.png" alt="">
+									<a href="http://www.goamericanrandr.com/" target="blank" class="overlay small">
 										<i class="fa fa-link"></i>
 										<span>Web Design</span>
 									</a>
-								</div>
-								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
+								{{-- </div> --}}
+								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">American Remodeling & Roofing</a>
 							</div>
 						</div>
-						<div class="col-sm-6 col-md-4 isotope-item app-development">
-							<div class="image-box">
-								<div class="overlay-container">
-									<img src="images/portfolio-2.jpg" alt="">
-									<a href="portfolio-item.html" class="overlay small">
-										<i class="fa fa-link"></i>
-										<span>App Development</span>
-									</a>
-								</div>
-								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
-							</div>
-						</div>
+						
 						<div class="col-sm-6 col-md-4 isotope-item web-design">
-							<div class="image-box">
-								<div class="overlay-container">
-									<img src="images/portfolio-3.jpg" alt="">
-									<a href="portfolio-item.html" class="overlay small">
+							<div class="image-box" align="center" id="conceptsconstruction">
+								{{-- <div class="overlay-container"> --}}
+									<img src="images/conceptsconstruction.png" alt="">
+									<a href="http://conceptsconstruction.com/" target="blank" class="overlay small">
 										<i class="fa fa-link"></i>
 										<span>Web Design</span>
 									</a>
-								</div>
-								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
+								{{-- </div> --}}
+								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Concepts Construction</a>
 							</div>
 						</div>
-						<div class="col-sm-6 col-md-4 isotope-item site-building">
-							<div class="image-box">
-								<div class="overlay-container">
-									<img src="images/portfolio-4.jpg" alt="">
-									<a href="portfolio-item.html" class="overlay small">
+						
+						<div class="col-sm-6 col-md-4 isotope-item web-design" id="sunsafe">
+							<div class="image-box" align="center">
+								{{-- <div class="overlay-container"> --}}
+									<img src="images/sunsafe.png" alt="">
+									<a href="http://www.sunsafefilm.com/" target="blank" class="overlay small">
 										<i class="fa fa-link"></i>
-										<span>Site Building</span>
+										<span>Web Design</span>
 									</a>
-								</div>
-								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
+								{{-- </div> --}}
+								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Sunsafe Film</a>
 							</div>
 						</div>
-						<div class="col-sm-6 col-md-4 isotope-item app-development">
+
+						{{-- <div class="col-sm-6 col-md-4 isotope-item app-development">
 							<div class="image-box">
 								<div class="overlay-container">
 									<img src="images/portfolio-5.jpg" alt="">
@@ -325,19 +348,33 @@
 								</div>
 								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
 							</div>
-						</div>
-						<div class="col-sm-6 col-md-4 isotope-item web-design">
+						</div> --}}
+
+						{{-- <div class="col-sm-6 col-md-4 isotope-item site-building">
 							<div class="image-box">
 								<div class="overlay-container">
-									<img src="images/portfolio-6.jpg" alt="">
+									<img src="images/portfolio-4.jpg" alt="">
 									<a href="portfolio-item.html" class="overlay small">
 										<i class="fa fa-link"></i>
-										<span>Web Design</span>
+										<span>Site Building</span>
 									</a>
 								</div>
 								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
 							</div>
-						</div>
+						</div> --}}
+
+						{{-- <div class="col-sm-6 col-md-4 isotope-item app-development">
+							<div class="image-box">
+								<div class="overlay-container">
+									<img src="images/portfolio-2.jpg" alt="">
+									<a href="portfolio-item.html" class="overlay small">
+										<i class="fa fa-link"></i>
+										<span>App Development</span>
+									</a>
+								</div>
+								<a href="portfolio-item.html" class="btn btn-light-gray btn-lg btn-block">Project Title</a>
+							</div>
+						</div> --}}
 					</div>
 					<!-- portfolio items end -->
 
