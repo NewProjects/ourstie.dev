@@ -17,10 +17,10 @@
 				<div class="slider-banner-fullscreen">
 					<ul>
 						<!-- slide 1 start -->
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" data-title="Slide 1">
+						<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" data-title="">
 
 						<!-- main image -->
-						<img src="images/slider-3-slide-1.jpg"  alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+						<img src="images/background.jpg"  alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
 						<!-- Translucent background -->
 						<div class="tp-caption light-translucent-bg"
@@ -42,16 +42,7 @@
 
 						<br>
 						<br>
-
-						<!-- LAYER NR. 2 -->
-						<div class="tp-caption sfr small_thin_dark text-center tp-resizeme"
-							data-x="center"
-							data-y="170"
-							data-speed="400"
-							data-start="0"
-							data-endspeed="200">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Quia dolorum consectetur doloremque a aliquam ullam labore, ducimus adipisci iste animi <br> natus asperiores sequi assumenda minima blanditiis. Culpa quis consectetur ratione.
-						</div>
-
+				
 						</li>
 						<!-- slide 1 end -->
 					</ul>

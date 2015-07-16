@@ -12,7 +12,7 @@ File Description: Dark Red Skin
 /* 1 Typography
 ----------------------------------------------------------------------------- */
 a, .text-default {
-	color: #8e1e13;
+	color: #c73131;
 }
 a:hover,
 a:focus {
@@ -28,12 +28,12 @@ a:focus {
 }
 mark,
 .mark {
-	background-color: #8e1e13;
+	background-color: #c73131;
 	color: #ffffff;
 }
 .table > thead > tr > th {
-	border-bottom: 1px solid #8e1e13;
-	background-color: #8e1e13;
+	border-bottom: 1px solid #c73131;
+	background-color: #c73131;
 	color: #fff;
 }
 .table-bordered {
@@ -43,7 +43,7 @@ mark,
 /* 2 Layout
 ----------------------------------------------------------------------------- */
 .default-bg {
-	background-color: #8e1e13;
+	background-color: #c73131;
 	color: #ffffff;
 }
 
@@ -56,13 +56,13 @@ mark,
 /* 3 Pages
 ----------------------------------------------------------------------------- */
 .blogpost .post-info {
-	background-color: #8e1e13;
+	background-color: #c73131;
 	color: #fff;
 }
 .blogpost .side .social-links li a {
 	background-color: transparent;
 	border-color: transparent;
-	color: #8e1e13;
+	color: #c73131;
 }
 .blogpost ul.links li a:hover {
 	color: #8e1e13;
@@ -90,7 +90,7 @@ mark,
 .btn-gray.active,
 .open .dropdown-toggle.btn-gray {
 	color: #ffffff;
-	background-color: #8e1e13;
+	background-color: #c73131;
 	border-color: #8e1e13;
 }
 
@@ -101,13 +101,13 @@ mark,
 .btn-light-gray.active,
 .open .dropdown-toggle.btn-light-gray {
 	color: #ffffff;
-	background-color: #8e1e13;
+	background-color: #c73131;
 	border-color: #8e1e13;
 }
 
 /* Default Buttons */
 .btn-default {
-	background-color: #8e1e13;
+	background-color: #c73131;
 	color: #fff !important;
 	border-color: #6c160f;
 }
@@ -117,13 +117,13 @@ mark,
 .btn-default.active,
 .open .dropdown-toggle.btn-default {
 	color: #fff !important;
-	background-color: #6c160f;
+	background-color: #c73131;
 	border-color: #6c160f;
 }
 .btn-default.disabled,
 .btn-default[disabled],
 fieldset[disabled] .btn-default {
-	background-color: #6c160f;
+	background-color: #c73131;
 	border-color: #6c160f;
 }
 
@@ -140,7 +140,7 @@ fieldset[disabled] .btn-default {
 .btn-white.active,
 .open .dropdown-toggle.btn-white {
 	color: #fff;
-	background-color: #6c160f;
+	background-color: #c73131;
 	border-color: #6c160f;
 }
 
@@ -386,15 +386,15 @@ a.overlay i {
 .subfooter .navbar-default .nav > .active > a:hover,
 .subfooter .navbar-default .nav > .active > a:focus {
 	background-color: transparent;
-	color: #8e1e13;
+	/*color: #c73131;*/
 }
 
 /* 6 Blocks/Widgets
 ----------------------------------------------------------------------------- */
 /* Boxes
 ---------------------------------- */
-.box.gray-bg:hover {
-	color: #8e1e13;
+/*.box.gray-bg:hover {
+	color: #c73131;
 }
 .box.default-bg:hover {
 	background-color: #fff;
@@ -402,8 +402,8 @@ a.overlay i {
 }
 .box.default-bg:hover * {
 	color: #8e1e13;
-}
-.box-style-1:not(.team-member):hover i {
+}*/
+/*.box-style-1:not(.team-member):hover i {
 	color: #8e1e13;
 }
 .box-style-1.default-bg:hover i, 
@@ -419,8 +419,8 @@ a.overlay i {
 }
 .box-style-2:hover .white-bg * {
 	color: #8e1e13;
-}
-.box-style-3:hover .default-bg {
+}*/
+/*.box-style-3:hover .default-bg {
 	background-color: #fff;
 	border: 1px solid #8e1e13;
 }
@@ -429,35 +429,35 @@ a.overlay i {
 }
 .box-style-3:hover .white-bg * {
 	color: #8e1e13;
-}
+}*/
 
 /* Tags cloud block
 ---------------------------------- */
-.tag a:hover {
+/*.tag a:hover {
 	color: #ffffff;
-	background-color: #8e1e13;
+	background-color: #c73131;
 	border-color: #8e1e13;
-}
+}*/
 
 /* Social icons block
 ---------------------------------- */
-.social-links li a {
-	background: #8e1e13;
+/*.social-links li a {
+	background: #c73131;
 	border: 1px solid #8e1e13;
 	color: #fff;
 }
 .social-links li a:hover {
-	background-color: transparent;
-	border-color: #6c160f;
-	color: #6c160f;
-}
+	/*background-color: transparent;*/
+	/*border-color: #6c160f;
+	color: #c73131;*/
+/*}
 .social-links .dropdown.open>button>i:before {
 	content: "\f00d";
 	color: #8e1e13;
 }
 .header-top .social-links li a:hover {
 	color: #6c160f;
-}
+}*/*/
 
 /* search and login
 ---------------------------------- */
