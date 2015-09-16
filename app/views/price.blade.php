@@ -15,7 +15,7 @@
 						<div class="col-md-6">
 							<p>Our process involves a thorough evaluation of the client's business modeal and market.  Using a variety of methods, a strategy will be developed that allows for maximum online impact as a natural extension of any business process.</p>
 
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea sit enim sint deleniti saepe esse nisi nesciunt fuga eaque dicta tenetur, cupiditate illo, consequuntur unde dolores quis dolore rem ex asperiores error. Labore saepe beatae harum quod fuga ipsam! Iusto earum iste similique, quam esse rerum, quae atque inventore consequuntur voluptatum amet deserunt mollitia? Tempore fugit, cumque dolor eaque doloremque iusto nostrum excepturi unde! Similique ipsum fugit eius laboriosam nihil quos, quia et! Earum iure, sapiente. Molestiae unde earum fugiat voluptate incidunt.</p>
+							<p>Our methods range from user-centric feedback driving an interface to granular analysis of the experience with traffic tracking.  Our clients are our partners and as such we will work in an open and transparent manner for maximum effectiveness throughout the design and rollout processes.  We view client engagement as a critical success factor for maximum ROI of your web presence.{{--           and experience throughout Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea sit enim sint deleniti saepe esse nisi nesciunt fuga eaque dicta tenetur, cupiditate illo, consequuntur unde dolores quis dolore rem ex asperiores error. Labore saepe beatae harum quod fuga ipsam! Iusto earum iste similique, quam esse rerum, quae atque inventore consequuntur voluptatum amet deserunt mollitia? Tempore fugit, cumque dolor eaque doloremque iusto nostrum excepturi unde! Similique ipsum fugit eius laboriosam nihil quos, quia et! Earum iure, sapiente. Molestiae unde earum fugiat voluptate incidunt. --}}</p>
 						</div>
 					</div>
 				</div>
@@ -42,8 +42,8 @@
 	</div>
 </div>
 <!-- section end -->
-{{-- <h2>Logo Pricing</h2> --}}
-<!-- section start -->
+
+{{-- <!-- section start -->
 <!-- ================ -->
 <div class="section clearfix">
 	<div class="container">
@@ -119,8 +119,9 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> --}}
 		<!-- pricing tables end -->
+		
 {{-- <div class="container"> --}}
 {{-- <h3>Website Pricing</h3></div> --}}
 <!-- section start -->
