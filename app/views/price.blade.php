@@ -10,10 +10,11 @@
 			<!-- Tab panes -->
 			<div class="tab-content clear-style">
 				<div class="tab-pane active" id="pill-1">
-					<h3>Consectetur adipisicing elit</h3>
+					<h3>User-Driven Power</h3>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Ipsum dolor sit amet, consectetur adipisicing elit. Sit, labore iste! Pariatur tempore, dicta voluptatibus quis blanditiis voluptates in. Molestiae asperiores sed, pariatur nesciunt saepe. Culpa ipsam ut enim reiciendis!</p>
+							<p>Our process involves a thorough evaluation of the client's business modeal and market.  Using a variety of methods, a strategy will be developed that allows for maximum online impact as a natural extension of any business process.</p>
+
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea sit enim sint deleniti saepe esse nisi nesciunt fuga eaque dicta tenetur, cupiditate illo, consequuntur unde dolores quis dolore rem ex asperiores error. Labore saepe beatae harum quod fuga ipsam! Iusto earum iste similique, quam esse rerum, quae atque inventore consequuntur voluptatum amet deserunt mollitia? Tempore fugit, cumque dolor eaque doloremque iusto nostrum excepturi unde! Similique ipsum fugit eius laboriosam nihil quos, quia et! Earum iure, sapiente. Molestiae unde earum fugiat voluptate incidunt.</p>
 						</div>
 					</div>

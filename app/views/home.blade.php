@@ -240,7 +240,7 @@
 						COO
 					</div>
 				</div>
-				<div class="col-md-3 col-sm-6">
+				{{-- <div class="col-md-3 col-sm-6">
 					<div class="box-style-1 white-bg team-member">
 						<div class="overlay-container">
 							<img src="images/team-member-3.jpg" alt="">
@@ -255,7 +255,7 @@
 						<h3>Mike</h3>
 						CMO
 					</div>
-				</div>
+				</div> --}}
 			</div>
 		</div>
 		<br>
