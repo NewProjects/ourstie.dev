@@ -211,12 +211,12 @@
 				<div class="col-md-3 col-sm-6">
 					<div class="box-style-1 white-bg team-member">
 						<div class="overlay-container">
-							<img src="images/team-member-1.jpg" alt="">
+							<img src="images/profile_pic.jpg" alt="">
 							<div class="overlay">
 								<ul class="social-links clearfix">
 									<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
-									<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
-									<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+									<li class="github"><a target="_blank" href="https://github.com/neon670"><i class="fa fa-github"></i></a></li>
+									<li class="linkedin"><a target="_blank" href="https://www.linkedin.com/"><i class="fa fa-linkedin"></i></a></li>
 								</ul>
 							</div>
 						</div>
@@ -231,7 +231,7 @@
 							<div class="overlay">
 								<ul class="social-links clearfix">
 									<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
-									<li class="skype"><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
+									<li class=""><a target="_blank" href="http://www.skype.com"><i class="fa fa-skype"></i></a></li>
 									<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
 								</ul>
 							</div>

@@ -18,7 +18,7 @@ fixed: fixed navigation mode (sticky menu) e.g. <header class="header fixed clea
 
 		<!-- name-and-slogan -->
 		<div class="site-slogan">
-			Clean &amp; Powerful Bootstrap Theme
+			
 		</div>
 
 	</div>
