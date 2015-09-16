@@ -13,7 +13,7 @@
 					<h3>User-Driven Power</h3>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Our process involves a thorough evaluation of the client's business modeal and market.  Using a variety of methods, a strategy will be developed that allows for maximum online impact as a natural extension of any business process.</p>
+							<p>Our process involves a thorough evaluation of the client's business model and market.  Using a variety of methods, a strategy will be developed that allows for maximum online impact as a natural extension of any business process.</p>
 
 							<p>Our methods range from user-centric feedback driving an interface to granular analysis of the experience with traffic tracking.  Our clients are our partners and as such we will work in an open and transparent manner for maximum effectiveness throughout the design and rollout processes.  We view client engagement as a critical success factor for maximum ROI of your web presence.{{--           and experience throughout Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea sit enim sint deleniti saepe esse nisi nesciunt fuga eaque dicta tenetur, cupiditate illo, consequuntur unde dolores quis dolore rem ex asperiores error. Labore saepe beatae harum quod fuga ipsam! Iusto earum iste similique, quam esse rerum, quae atque inventore consequuntur voluptatum amet deserunt mollitia? Tempore fugit, cumque dolor eaque doloremque iusto nostrum excepturi unde! Similique ipsum fugit eius laboriosam nihil quos, quia et! Earum iure, sapiente. Molestiae unde earum fugiat voluptate incidunt. --}}</p>
 						</div>
@@ -121,7 +121,6 @@
 	</div>
 </div> --}}
 		<!-- pricing tables end -->
-		
 {{-- <div class="container"> --}}
 {{-- <h3>Website Pricing</h3></div> --}}
 <!-- section start -->
@@ -159,16 +158,16 @@
 				<!-- pricing table start -->
 				<div class="col-sm-4 plan best-value">
 					<div class="header">
-						<h3>Standard</h3>
-						<div class="price"><span>$1250</span></div>
+						<h3>Premium</h3>
+						<div class="price"><span>$1800</span></div>
 					</div>
 					<ul>
-						<li>80 Users</li>
-						<li>Unlimited Disk Space</li>
-						<li>
+						<li>Admin Panel</li>
+						<li>eCommerce</li>
+						{{-- <li>
 							<a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="Unlimited Subdomains">Unlimited Email Acounts</a>
-						</li>        
-						<li>Subdomains</li>
+						</li> --}}
+						<li>Logo Design</li>
 						<li>Security</li>
 						<li>500 Visitors per month</li>
 						<li>1 Database</li>
@@ -180,7 +179,7 @@
 				<!-- pricing table start -->
 				<div class="col-sm-4 plan">
 					<div class="header">
-						<h3>Premium</h3>
+						<h3>Standard</h3>
 						<div class="price"><span>$1500</span></div>
 					</div>
 					<ul>
