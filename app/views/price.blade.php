@@ -150,7 +150,7 @@
 						</li>
 						<li>Hosting Available</li>
 						<li>Periodic Updates Available</li>
-						<{{-- li>Bandwidth</li>
+						{{-- li>Bandwidth</li>
 						<li>Databases</li> --}}
 						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"></i>Contact Us</a></li>
 					</ul>
