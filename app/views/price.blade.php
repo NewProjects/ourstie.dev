@@ -152,7 +152,7 @@
 						<li>Periodic Updates Available</li>
 						<{{-- li>Bandwidth</li>
 						<li>Databases</li> --}}
-						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"></i>Contact Us</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
@@ -175,7 +175,7 @@
 						<li>Hosting Available</li>
 						<li>1 Database</li>
 						<li>User Experience Research</li>
-						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"></i>Contact Us</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
@@ -197,7 +197,7 @@
 						</li>
 						<li>1 Database</li>
 						{{-- <li>Unlimited Databases</li> --}}
-						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"></i>Contact Us</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
