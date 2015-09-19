@@ -13,7 +13,7 @@
 					<h3>User-Driven Power</h3>
 					<div class="row">
 						<div class="col-md-6">
-							<p>Our process involves a thorough evaluation of the client's business model and market.  Using a variety of methods, a strategy will be developed that allows for maximum online impact as a natural extension of any business process.</p>
+							<p>Our process involves a thorough evaluation of the client's business mode l and market.  Using a variety of methods, a strategy will be developed that allows for maximum online impact as a natural extension of any business process.</p>
 
 							<p>Our methods range from user-centric feedback driving an interface to granular analysis of the experience with traffic tracking.  Our clients are our partners and as such we will work in an open and transparent manner for maximum effectiveness throughout the design and rollout processes.  We view client engagement as a critical success factor for maximum ROI of your web presence.{{--           and experience throughout Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea sit enim sint deleniti saepe esse nisi nesciunt fuga eaque dicta tenetur, cupiditate illo, consequuntur unde dolores quis dolore rem ex asperiores error. Labore saepe beatae harum quod fuga ipsam! Iusto earum iste similique, quam esse rerum, quae atque inventore consequuntur voluptatum amet deserunt mollitia? Tempore fugit, cumque dolor eaque doloremque iusto nostrum excepturi unde! Similique ipsum fugit eius laboriosam nihil quos, quia et! Earum iure, sapiente. Molestiae unde earum fugiat voluptate incidunt. --}}</p>
 						</div>
@@ -136,21 +136,23 @@
 				<div class="col-sm-4 plan">
 					<div class="header">
 						<h3>Economy</h3>
-						<div class="price"><span>$1000</span></div>
+						<div class="price"><span>$1300</span></div>
 					</div>
 					<ul>
-						<li>1 User</li>
+						<li>Our most basic package</li>
 						<li>
-							<a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="15GB Storage" data-trigger="hover">1GB Storage</a>
+							A one page basic marketing website.
+							{{-- <a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="15GB Storage" data-trigger="hover">1GB Storage</a> --}}
 						</li>
 						<li>
-							<a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="15 Email Acounts">1 Email Acounts</a>
+							{{-- <a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="15 Email Acounts">1 Email Acounts</a> --}}
+							Email Accounts
 						</li>
-						<li>Subdomains</li>
-						<li>Security</li>
-						<li>Bandwidth</li>
-						<li>Databases</li>
-						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+						<li>Hosting Available</li>
+						<li>Periodic Updates Available</li>
+						<{{-- li>Bandwidth</li>
+						<li>Databases</li> --}}
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"></i>Contact Us</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
@@ -159,7 +161,7 @@
 				<div class="col-sm-4 plan best-value">
 					<div class="header">
 						<h3>Premium</h3>
-						<div class="price"><span>$1800</span></div>
+						<div class="price"><span>$2200</span></div>
 					</div>
 					<ul>
 						<li>Admin Panel</li>
@@ -168,10 +170,12 @@
 							<a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="Unlimited Subdomains">Unlimited Email Acounts</a>
 						</li> --}}
 						<li>Logo Design</li>
-						<li>Security</li>
-						<li>500 Visitors per month</li>
+						<li>Search Optimization</li>
+						<li>Image Gallery</li>
+						<li>Hosting Available</li>
 						<li>1 Database</li>
-						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+						<li>User Experience Research</li>
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"></i>Contact Us</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
@@ -180,19 +184,20 @@
 				<div class="col-sm-4 plan">
 					<div class="header">
 						<h3>Standard</h3>
-						<div class="price"><span>$1500</span></div>
+						<div class="price"><span>$1800</span></div>
 					</div>
 					<ul>
-						<li>Unlimited Users</li>
-						<li>Unlimited Disk Space</li>
-						<li>Unlimited Email Acounts</li>
-						<li>Unlimited Subdomains</li>
+						<li>Marketing Site</li>
+						<li>Multiple Pages</li>
+						<li>Image Gallery</li>
+						<li>Logo Design</li>
 						<li>
-							<a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="Enchaned Security">Enchaned Security</a>
+							{{-- <a href="#" class="pt-popover" data-toggle="popover" data-placement="right" data-content="Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." title="" data-original-title="Enchaned Security">Enchaned Security</a> --}}
+							Hosting Available
 						</li>
-						<li>Unlimited Bandwidth</li>
-						<li>Unlimited Databases</li>
-						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"><i class="fa fa-shopping-cart pr-10"></i>Order Now</a></li>
+						<li>1 Database</li>
+						{{-- <li>Unlimited Databases</li> --}}
+						<li><a href="{{{action ('HomeController@showWebsite')}}}" class="btn btn-gray"></i>Contact Us</a></li>
 					</ul>
 				</div>
 				<!-- pricing table end -->
