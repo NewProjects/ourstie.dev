@@ -15,25 +15,25 @@
 	                    <fieldset>
 	                    	<h3 class="col-md-8">Personal Information</h3>
 	                        <div class="form-group">
-	                            <div class="col-md-8">
+	                            <div class="col-md-6">
 	                                {{ Form::text('first_name', Input::old('first'),array('placeholder'=>'First Name', 'class'=>'form-control')) }}
 	                            </div>
 	                        </div>
 
 	                        <div class="form-group">
-	                        	<div class="col-md-8">	
+	                        	<div class="col-md-6">	
 	                             	{{ Form::text('last_name', Input::old('last'),array('placeholder'=>'Last Name', 'class'=>'form-control')) }}
 	                            </div>
 	                        </div>
 
 	                        <div class="form-group">
-	                            <div class="col-md-8">
+	                            <div class="col-md-6">
 	                                {{ Form::email('email', Input::old('email'),array('placeholder'=>'Email', 'class'=>'form-control')) }}
 	                            </div>
 	                        </div>
 	                        <div class="form-group">
-	                            <div class="col-md-8">
-	                                {{ Form::number('number', Input::old('phone'),array('placeholder'=>'Phone Number', 'class'=>'form-control')) }}
+	                            <div class="col-md-6">
+	                                {{ Form::text('number', Input::old('phone'),array('placeholder'=>'Phone Number', 'class'=>'form-control')) }}
 	                            </div>
 	                        </div>
 	                        <div class="col-md-8">
